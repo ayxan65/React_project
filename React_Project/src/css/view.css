@@ -1,0 +1,48 @@
+.bigdiv{
+    height: 600px;
+    margin: 0 4.5em;
+}
+.viewourproject{
+    font-size: 28px;
+    font-weight: 700;
+}
+.ourview{
+    display: flex;
+    align-items: center;
+    height: 100px;
+    justify-content: space-between;
+}
+.btncls{
+    display: flex;
+    position: relative;
+    top: 2px;
+    font-weight: 700;
+}
+.arrlink{
+    position: relative;
+    top: 4px;
+    margin-left: 10px;
+}
+.leftright{
+    margin: 1.8em 0;
+}
+.opacityimg{
+    background-image:url('../assets/Rectangle.svg');
+    height: 500px;
+    width: 500px;
+    background-repeat: no-repeat;
+    margin-bottom: 2em;
+    
+    
+}
+.opp{
+    font-weight: 800;
+    font-size: 26px;
+    color: white;
+    margin:  2em;
+    padding: 12em 0;
+} 
+.lorem{
+    margin:  2em;
+    padding: 12em 0;
+}

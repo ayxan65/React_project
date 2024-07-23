@@ -1,0 +1,48 @@
+*{
+    padding: 0;margin: 0;
+    box-sizing: border-box;
+}
+
+.main1{
+    background-color: rgba(244, 246, 252, 1);
+    height: 640px;
+
+    
+}
+.container1{
+    
+    margin: 0 4.5em;
+    padding: 8em 0;
+
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    
+}
+.title1{
+    font-size: 46px;
+    font-weight: 800;
+    margin-bottom: 20px;
+}
+.left1{
+    color:black;
+    width: 400px;
+    
+
+}
+
+.Getbtn{
+    color: rgba(36, 5, 242, 1);
+    font-weight: 700;
+    }
+.footerr{
+    margin-bottom: 20px;
+} 
+.arrow{
+    margin-left: 20px;
+    position: relative;
+    top: 3px;
+    color: rgba(36, 5, 242, 1);
+}   
+
+
